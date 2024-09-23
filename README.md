@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am currently working at [Speed](https://www.tryspeed.com/) as a Software Engineer.
+I am currently working at [Enzo](https://www.enzo.health) as a Sr. Full-Stack Engineer.
 
 As a self-taught full stack developer, I am passionate about contributing to open-source projects and constantly eager to learn and experiment with the latest technologies.
 
