@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I am currently working at [Enzo](https://www.enzo.health) as a Sr. Full-Stack Engineer.
+I am currently working at [Enzo](https://www.enzo.health) as a Product Engineer.
 
 As a self-taught full stack developer, I am passionate about contributing to open-source projects and constantly eager to learn and experiment with the latest technologies.
 
